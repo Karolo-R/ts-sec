@@ -36,7 +36,7 @@ In **General** tab enter ZAP in name,
 Navigate to **Proxy Details** tab enter `127.0.0.1` as the address and `8080` as a port,
 ![1](./attachments/Pasted_image_20220204180915.png)
 Navigate to **URL Patterns** > **Add new pattern** enter `*herokuapp.com` URL pattern and save the settings.
-![1](./attachments/Pasted_image_20220204181005.png)
+![1](./attachments/Pasted_image_20220207152412.png)
 After that, click on FoxyProxy extension and click **Use proxies based on their pre-defined patterns and priorities**
 ![1](./attachments/Pasted_image_20220204181054.png)
 
